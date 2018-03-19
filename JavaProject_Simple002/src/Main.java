@@ -8,6 +8,7 @@ public class Main {
 	}
 	
 	private void test01(){
-		System.out.println("test01()");
+		System.out.println("Inicio test01()");
+		System.out.println("Fin test01()");
 	}
 }
